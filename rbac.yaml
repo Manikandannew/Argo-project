@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: argocd-rbac-cm
+  namespace: argocd
+data:
+  policy.csv: |
+    # Allow jenkins account to get and sync the php-app in default project
+    p, jenkins, applications, get, default/php-app, allow
+    p, jenkins, applications, sync, default/php-app, allow
+
+  policy.default: role:readonly
+
+

@@ -347,8 +347,8 @@
                   <div class="hero-content">
                      <!-- Section Title Start -->
                      <div class="section-title">
-                        <h3>welcome to Echo Digital Works</h3>
-                        <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Designing tomorrow</span> empowering your solutions</h1>
+                        <h3>welcome to Mahil Digital Works</h3>
+                        <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Manikandan</span> empowering your solutions</h1>
                         <p class="wow fadeInUp text-light">We combine innovation and creativity to craft  solutions that drive success and inspire growth.</p>
                      </div>
                      <!-- Section Title End -->
